@@ -1,1 +1,1 @@
-# goshogi-api
+# goshogi-rpc

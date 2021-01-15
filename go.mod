@@ -1,4 +1,4 @@
-module github.com/kk-no/goshogi-api
+module github.com/kk-no/goshogi-rpc
 
 go 1.15
 
